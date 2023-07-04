@@ -16,13 +16,14 @@ Ujian Online SMP  Negeri 1 Sedayu
 - Importt database, sql file : "{project_path}/sql_dump/prio_ta.sql"
 
 # SS Login Page:
-![alt text](https://raw.githubusercontent.com/csynoers/ujian-online-smpn1-sedayu/master/login-page.png)
+<img src="./src/ss/login-page.png">
 
 # SS Admin Dashboard:
-![alt text](https://raw.githubusercontent.com/csynoers/ujian-online-smpn1-sedayu/master/admin-dashboard.png)
+<img src="./src/ss/admin-dashboard.png">
 
 # SS Guru Dashboard:
-![alt text](https://raw.githubusercontent.com/csynoers/ujian-online-smpn1-sedayu/master/guru-dashboard.png)
+<img src="./src/ss/guru-dashboard.png">
+
 
 # SS Guru Kepala Lab Dashboard:
-![alt text](https://raw.githubusercontent.com/csynoers/ujian-online-smpn1-sedayu/master/guru-kep-lab-dashboard.png)
+<img src="./src/ss/guru-kep-lab-dashboard.png">
