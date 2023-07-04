@@ -1,12 +1,13 @@
-# ujian-online-smpn1-sedayu
-Ujian Online SMP  Negeri 1 Sedayu
+# Web Ujian Online Siswa
+
 
 # Login
-    - Admin         (   username= "admin" password="admin" )
-    - Guru          (   username= "196203211984032009" password="guru" mapel="bahasa indonesia kelas IX A")
-    - Kepala Lab    (   username= "197108271995122001" password="guru" )
-    - Siswa         (   username= "10704" password="siswa" )
-    - Siswa         (   username= "10705" password="siswa" )
+
+    * Admin         (   username= "admin" password="admin" )
+    * Guru          (   username= "196203211984032009" password="guru" mapel="bahasa indonesia kelas IX A")
+    * Kepala Lab    (   username= "197108271995122001" password="guru" )
+    * Siswa         (   username= "10704" password="siswa" )
+    * Siswa         (   username= "10705" password="siswa" )
 
 # cara install:
 - clone or download
